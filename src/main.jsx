@@ -1,4 +1,6 @@
 import { StrictMode } from 'react'
+// Cache bust
+console.log("Cache bust 1");
 import { createRoot } from 'react-dom/client'
 import './index.css'
 import App from './App.jsx'
