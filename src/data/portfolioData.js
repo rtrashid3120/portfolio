@@ -12,16 +12,16 @@ export const personalInfo = {
   location: "Bhopal, India",
   phone: "+91 99396-08743",
   emails: {
-    primary: "mdyusufcse096@iesuniversity.ac.in",
-    secondary: "yusuf.rgpv@gmail.com",
+    primary: "rtrashid3120@gmail.com",
+    secondary: "rtrashid3120@gmail.com",
   },
   summary:
     "Aspiring software engineer and motivated B.Tech Computer Science student with solid skills in Java, Spring Boot, React, and Python. Passionate about building scalable full-stack applications with clean architecture and modern tech stacks.",
-  resumeUrl: "/Md_Yusuf_Resume_2026.pdf",
+  resumeUrl: "/Resume_Updated.docx",
 };
 
 export const socialLinks = {
-  github: "https://github.com/rtrashid3120/chat-bot-.git",
+  github: "https://github.com/rtrashid3120",
   linkedin: "https://www.linkedin.com/in/mohammed-rashid-a33a54377",
   instagram: "https://www.instagram.com/raassshid_31?igsh=NXNkZ2hyMGtlamlr&utm_source=qr",
 };
@@ -34,9 +34,9 @@ export const heroContent = {
   ctaPrimary: { text: "View My Work", href: "#projects" },
   ctaSecondary: {
     text: "Contact Me",
-    href: "mailto:mdyusufcse096@iesuniversity.ac.in?subject=Hiring Inquiry – Portfolio&body=Hello Md Rashid,%0D%0A%0D%0AI came across your portfolio and would like to discuss an opportunity with you.%0D%0A%0D%0ALooking forward to hearing from you.%0D%0ABest Regards,",
+    href: "mailto:rtrashid3120@gmail.com?subject=Hiring Inquiry – Portfolio&body=Hello Md Rashid,%0D%0A%0D%0AI came across your portfolio and would like to discuss an opportunity with you.%0D%0A%0D%0ALooking forward to hearing from you.%0D%0ABest Regards,",
   },
-  ctaResume: { text: "Download Resume", href: "/Md_Yusuf_Resume_2026.pdf" },
+  ctaResume: { text: "Download Resume", href: "/Resume_Updated.docx" },
 };
 
 export const aboutContent = {
@@ -261,7 +261,7 @@ export const projects = [
       "AWS",
     ],
     links: {
-      github: "https://github.com/ersamirsingh/UrbanPiper",
+      github: "https://github.com/rtrashid3120",
       demo: null,
     },
     isFlagship: true,
@@ -275,7 +275,7 @@ export const projects = [
       "A platform connecting local skilled workers with customers, featuring real-time search, worker profiles, and booking management with full database integration.",
     techTags: ["React", "Node.js", "MongoDB", "Express", "REST API"],
     links: {
-      github: "https://github.com/mdyusuf0/Karigar",
+      github: "https://github.com/rtrashid3120",
       frontendDemo: "https://karigar-frontend.onrender.com",
       backendApi: "https://karigar-zny2.onrender.com",
     },
@@ -290,7 +290,7 @@ export const projects = [
       "A full-stack web application that analyzes citizen feedback using Artificial Intelligence to classify sentiments as positive, negative, or neutral. Features a responsive React frontend, a Node.js backend, MongoDB for data storage, and n8n automation for workflow orchestration — enabling real-time insights and efficient feedback management.",
     techTags: ["React", "Node.js", "MongoDB", "n8n", "AI/ML", "REST API"],
     links: {
-      github: "#", // Update when available
+      github: "https://github.com/rtrashid3120", // Update when available
     },
     isFlagship: false,
   },
