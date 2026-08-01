@@ -301,9 +301,10 @@ export const certificates = {
       url: "/portfolio/Coursera IBM Prompt Engineering.pdf",
     },
     {
-      name: "Programming in Java (94%)",
-      issuer: "NPTEL",
-      icon: "☕",
+      name: "Python for Data Science, AI & Development",
+      issuer: "IBM",
+      icon: "🐍",
+      url: "/portfolio/Coursera 48LV43X60P65-python.pdf",
     },
     {
       name: "Applied Generative AI & Prompt Engineering Mastery",
