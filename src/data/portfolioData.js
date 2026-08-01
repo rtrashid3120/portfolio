@@ -17,7 +17,7 @@ export const personalInfo = {
   },
   summary:
     "Aspiring software engineer and motivated B.Tech Computer Science student with solid skills in Java, Spring Boot, React, and Python. Passionate about building scalable full-stack applications with clean architecture and modern tech stacks.",
-  resumeUrl: "/portfolio/Resume_Updated.docx",
+  resumeUrl: "/portfolio/Md_Rashid_Resume.docx",
 };
 
 export const socialLinks = {
@@ -36,7 +36,7 @@ export const heroContent = {
     text: "Contact Me",
     href: "mailto:rtrashid3120@gmail.com?subject=Hiring Inquiry – Portfolio&body=Hello Md Rashid,%0D%0A%0D%0AI came across your portfolio and would like to discuss an opportunity with you.%0D%0A%0D%0ALooking forward to hearing from you.%0D%0ABest Regards,",
   },
-  ctaResume: { text: "Download Resume", href: "/portfolio/Resume_Updated.docx" },
+  ctaResume: { text: "Download Resume", href: "/portfolio/Md_Rashid_Resume.docx" },
 };
 
 export const aboutContent = {
@@ -242,26 +242,22 @@ export const softSkillsList = [
 
 export const projects = [
   {
-    id: "foodmesh",
+    id: "promptly",
     number: "01",
     badge: "🚀 Flagship Project",
-    title: "FoodMesh",
+    title: "Promptly AI",
     description:
-      "FoodMesh — An enterprise-grade multi-tenant restaurant management and food ordering SaaS platform inspired by UrbanPiper. It enables restaurants to manage multiple outlets, menus, inventory, customers, staff, and orders through a scalable architecture with secure authentication, role-based access control, and real-time operations. Built with React, Next.js, NestJS, PostgreSQL, Redis, Kafka, Elasticsearch, Docker, Kubernetes, and AWS.",
+      "Promptly AI — An intelligent and conversational AI chatbot tailored to provide real-time, context-aware responses. It leverages advanced natural language processing to understand user intent, streamline workflows, and deliver human-like interactions. The platform features a seamless, responsive UI and a robust backend integration to ensure scalable and secure conversational experiences.",
     techTags: [
       "React",
-      "Next.js",
-      "NestJS",
-      "PostgreSQL",
-      "Redis",
-      "Kafka",
-      "Elasticsearch",
-      "Docker",
-      "Kubernetes",
-      "AWS",
+      "Node.js",
+      "Express",
+      "OpenAI API",
+      "Tailwind CSS",
+      "MongoDB"
     ],
     links: {
-      github: "https://github.com/rtrashid3120",
+      github: "https://github.com/rtrashid3120/promptly",
       demo: null,
     },
     isFlagship: true,
