@@ -313,9 +313,10 @@ export const certificates = {
       url: "/portfolio/Coursera prompt Engineering Mastery.pdf",
     },
     {
-      name: "Technology Job Simulation",
-      issuer: "Deloitte",
+      name: "CODTECH - IT Solution Private Limited",
+      issuer: "CODTECH",
       icon: "💼",
+      url: "/portfolio/CT04DH1099 (1).pdf",
     },
     {
       name: "VANDERBILT UNIVERSITY",
@@ -329,8 +330,7 @@ export const certificates = {
       icon: "📊",
     },
   ],
-  viewAllUrl:
-    "https://drive.google.com/file/d/1ObdGWtVSx8SsfR4AcbCySSd9LFXcAs9f/view?usp=sharing",
+  viewAllUrl: "/portfolio/All_Certificates.pdf",
 };
 
 export const education = {
