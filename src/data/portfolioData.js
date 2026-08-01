@@ -306,8 +306,8 @@ export const certificates = {
       icon: "☕",
     },
     {
-      name: "Prompt Engineering Mastery",
-      issuer: "Coursera",
+      name: "Applied Generative AI & Prompt Engineering Mastery",
+      issuer: "LearnKartS",
       icon: "⚙️",
       url: "/portfolio/Coursera prompt Engineering Mastery.pdf",
     },
