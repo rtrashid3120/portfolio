@@ -36,7 +36,7 @@ export const heroContent = {
     text: "Contact Me",
     href: "mailto:rtrashid3120@gmail.com?subject=Hiring Inquiry – Portfolio&body=Hello Md Rashid,%0D%0A%0D%0AI came across your portfolio and would like to discuss an opportunity with you.%0D%0A%0D%0ALooking forward to hearing from you.%0D%0ABest Regards,",
   },
-  ctaResume: { text: "Download Resume", href: "/portfolio/Resume_Updated.docx" },
+  ctaResume: { text: "Download Resume", href: "/portfolio/Rashid-Resume.pages" },
 };
 
 export const aboutContent = {
