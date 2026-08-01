@@ -258,7 +258,7 @@ export const projects = [
     ],
     links: {
       github: "https://github.com/rtrashid3120/promptly",
-      demo: null,
+      demo: "https://chat-bot-ashen-seven.vercel.app",
     },
     isFlagship: true,
   },
