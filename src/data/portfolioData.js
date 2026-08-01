@@ -295,9 +295,10 @@ export const projects = [
 export const certificates = {
   featured: [
     {
-      name: "Oracle Cloud Infrastructure 2025",
-      issuer: "Oracle",
+      name: "IBM Prompt Engineering",
+      issuer: "Coursera",
       icon: "☁️",
+      url: "/portfolio/Coursera IBM Prompt Engineering.pdf",
     },
     {
       name: "Programming in Java (94%)",
@@ -305,9 +306,10 @@ export const certificates = {
       icon: "☕",
     },
     {
-      name: "C Programming & Assembly Language",
-      issuer: "NPTEL",
+      name: "Prompt Engineering Mastery",
+      issuer: "Coursera",
       icon: "⚙️",
+      url: "/portfolio/Coursera prompt Engineering Mastery.pdf",
     },
     {
       name: "Technology Job Simulation",
@@ -315,9 +317,10 @@ export const certificates = {
       icon: "💼",
     },
     {
-      name: "Career Edge – IT Primer",
-      issuer: "TCS iON",
+      name: "VANDERBILT UNIVERSITY",
+      issuer: "Coursera",
       icon: "🎓",
+      url: "/portfolio/Coursera TVH42I5YT23S.pdf",
     },
     {
       name: "Fundamentals of BI & Analytics",
