@@ -263,17 +263,16 @@ export const projects = [
     isFlagship: true,
   },
   {
-    id: "karigar",
+    id: "expense-tracker",
     number: "02",
     badge: null,
-    title: "Karigar",
+    title: "Express-Hub",
     description:
-      "A platform connecting local skilled workers with customers, featuring real-time search, worker profiles, and booking management with full database integration.",
-    techTags: ["React", "Node.js", "MongoDB", "Express", "REST API"],
+      "A modern full-stack web application designed for tracking personal expenses, managing budgets, and visualizing financial insights with interactive analytics and a seamless user experience.",
+    techTags: ["React", "Node.js", "Express", "Tailwind CSS", "MongoDB", "REST API"],
     links: {
-      github: "https://github.com/rtrashid3120",
-      frontendDemo: "https://karigar-frontend.onrender.com",
-      backendApi: "https://karigar-zny2.onrender.com",
+      github: "https://github.com/rtrashid3120/expense-tracker-",
+      frontendDemo: "https://rtrashid3120.github.io/expense-tracker-/",
     },
     isFlagship: false,
   },
